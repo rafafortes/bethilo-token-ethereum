@@ -37,7 +37,7 @@ npm install
 
 - ./node_modules/.bin/truffle migrate --network ganache (if you want to deploy to ganache)
 - ./node_modules/.bin/truffle migrate --network sepolia (if you want to deploy to sepolia)
-- ./node_modules/.bin/truffle migrate --network networkName (if you want to deploy to another network, replace networkName by our desired network and make sure the truffle-config.js is updated with the network settings)
+- ./node_modules/.bin/truffle migrate --network networkName (if you want to deploy to another network, replace networkName by your desired network and make sure the truffle-config.js is updated with the network settings)
 
 ## Server start up
 
